@@ -9,7 +9,7 @@
 <body>
 	<header
 		style="position: fixed; top: 0px; width: 100%; height: 40px; background-color: blue; color: white; text-align: center; line-height: 40px; font-size: 30px">매장별
-		커피 판매관리 ver 1.0</header>
+		커피 판매관리</header>
 	<nav
 		style="position: fixed; top: 40px; width: 100%; height: 20px; background-color: lightblue; color: black; line-height: 20px">
 		&nbsp;&nbsp; <a href="m_join.jsp">상품등록&nbsp;&nbsp;</a> <a
