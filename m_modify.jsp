@@ -42,7 +42,7 @@
 				%>
 				<tr>
 					<td>상품코드</td>
-					<td><input type="text" name="pcode" value="<%=mod_pcode%>"></td>
+					<td><input type="text" name="pcode" value="<%=mod_pcode%>" readonly></td>
 				</tr>
 				<tr>
 					<td>상품명</td>
