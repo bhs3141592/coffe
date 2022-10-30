@@ -41,7 +41,7 @@ catch (Exception e){
 %>
 				<tr>
 					<td>매장번호</td>
-					<td><input type="text" name="scode" value="<%=mod_scode %>"></td>
+					<td><input type="text" name="scode" value="<%=mod_scode %>" readonly></td>
 				</tr>
 				<tr>
 					<td>매장이름</td>
